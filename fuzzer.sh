@@ -1,10 +1,11 @@
 #!/bin/bash
 
 # Read endpoint URLs from endpoints.txt
-endpoints=$(cat hyperion-endpoints.txt)
+
 
 
 hyperion(){
+endpoints=$(cat hyperion-endpoints.txt)
 # Loop through each endpoint and execute the find command
 
 for endpoint in $endpoints
@@ -14,6 +15,9 @@ done
 }
 
 atomicAPI(){
-
+# coming soon
 
 }
+
+# start Hyperion fuzzer
+hyperion

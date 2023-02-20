@@ -1,0 +1,7 @@
+https://eos.api.atomicassets.io/atomicassets/v1/assets/123
+https://eos.api.atomicassets.io/atomicassets/v1/assets/112/stats
+https://eos.api.atomicassets.io/atomicassets/v1/assets/123/logs?page=1&limit=100&order=desc
+'https://eos.api.atomicassets.io/atomicmarket/v1/assets/12/logs?page=1&limit=100&order=desc
+https://eos.api.atomicassets.io/atomicassets/v1/collections/gert
+https://eos.api.atomicassets.io/atomicassets/v1/collections/gert/stats
+# Add the remaining API calls

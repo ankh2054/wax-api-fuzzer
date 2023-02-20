@@ -1,4 +1,4 @@
-# A fuzzing corpus for Hyperion V2 API calls.
+# 🪲 A fuzzing corpus for Hyperion V2 API calls.
 
 The fuzzing tool will extract each corpus from file and send it to the each API in endpoints.txt
 
