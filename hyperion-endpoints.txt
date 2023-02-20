@@ -1,0 +1,12 @@
+/v2/history/get_transfers?from=
+/v2/history/get_transacted_accounts?account=
+/v2/state/get_account?account=
+/v2/history/get_abi_snapshot?contract=
+/v2/history/get_actions?account=
+/v2/history/get_created_accounts?account=
+/v2/history/get_creator?account=
+/v2/history/get_deltas?code=eosio.token&table=
+/v2/history/get_transaction?id=
+/v2/state/get_links?account=
+/v2/state/get_proposals?proposer=
+/v2/state/get_tokens?account=
